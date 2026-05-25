@@ -1,2 +1,35 @@
-# airbnb-clone-nodejs
-A Node.js project showcasing RESTful API design and file handling. Implements secure image upload and download functionality using Express, Multer, and file system operations. Demonstrates backend development best practices, error handling, and modular code structure.
+# Airbnb Clone Web Application
+
+A backend-focused Airbnb-inspired property listing web application built using Node.js, Express.js, EJS, and MVC architecture.
+
+## Features
+
+- Property listing pages
+- Dynamic routing using Express.js
+- CRUD operations
+- Server-side rendering with EJS
+- MVC architecture
+- Responsive UI design
+- Reusable templates and layouts
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- JavaScript
+- EJS
+- HTML
+- CSS
+
+## Project Structure
+
+```bash
+project/
+│
+├── routes/
+├── controllers/
+├── views/
+├── public/
+├── models/
+├── app.js
+└── package.json
