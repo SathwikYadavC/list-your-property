@@ -1,4 +1,4 @@
-# Airbnb Clone Web Application
+# Property Listing Web Application
 
 A backend-focused Airbnb-inspired property listing web application built using Node.js, Express.js, EJS, and MVC architecture.
 
